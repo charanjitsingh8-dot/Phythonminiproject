@@ -10,6 +10,7 @@ Section 3 -Basic Calculator
 
 Section 4 - Word Counter and Analyzer
 
+
         Python Basic
 
 Concepts: Variables, loops, conditionals, strings, random module
@@ -24,7 +25,9 @@ Basic Calculator	: Performs addition, subtraction, multiplication and division w
 Word Counter and Analyzer:	Takes a paragraph as input, counts words, finds the longest word, counts vowels and tracks most common starting letter  
 
 
-Project Structure
+
+     Project Structure
+
 
 
    python_mini_projects/
