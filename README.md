@@ -30,10 +30,15 @@ Project Structure
    python_mini_projects/
 
    |
+
    |-- phython_basics/
+
    |   |-- number_guessing_game.py
+
    |   |-- atm_machine.py
+
    |   |-- basic_calculator.py
+
    |   |-- word_counter_analyzer.py
 
 #Author Charanjit singh Developed as part of internship Python programming module.
