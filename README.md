@@ -21,4 +21,20 @@ Simple ATM Machine: User enters a PIN and can check balance, deposit, or withdra
 
 Basic Calculator	: Performs addition, subtraction, multiplication and division with input validation and division by zero handling.
 
-Word Counter and Analyzer:	Takes a paragraph as input, counts words, finds the longest word, counts vowels and tracks most common starting letter 
+Word Counter and Analyzer:	Takes a paragraph as input, counts words, finds the longest word, counts vowels and tracks most common starting letter  
+
+
+Project Structure
+
+
+   python_mini_projects/
+
+   |
+   |-- phython_basics/
+   |   |-- number_guessing_game.py
+   |   |-- atm_machine.py
+   |   |-- basic_calculator.py
+   |   |-- word_counter_analyzer.py
+
+#Author Charanjit singh Developed as part of internship Python programming module.
+   |
