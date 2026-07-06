@@ -1,0 +1,7 @@
+       Python Basics
+
+
+Concepts: Variables, loops, conditionals, strings, random module
+
+Project	Description
+Number Guessing Game	Computer picks a random number and the user guesses with hints like too high or too low. Tracks number of attempts.
